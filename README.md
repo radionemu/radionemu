@@ -1,5 +1,5 @@
 ### Graphics Programmger
-
+Dept. of Computer Science, Konkuk Uni. Interested in Computer Graphics & Game/Physics engine
 
 ![Fresnel's GitHub stats](https://github-readme-stats.vercel.app/api?username=radionemu&hide=contribs,prs&show_icons=true)
 
